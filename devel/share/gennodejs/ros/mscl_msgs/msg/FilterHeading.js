@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/mscl_msgs/share/gennodejs/ros/mscl_msgs/msg/FilterHeading.js

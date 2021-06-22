@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/mscl_msgs/share/mscl_msgs/cmake/mscl_msgsConfig-version.cmake

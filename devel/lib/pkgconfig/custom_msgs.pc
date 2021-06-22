@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/custom_msgs/lib/pkgconfig/custom_msgs.pc

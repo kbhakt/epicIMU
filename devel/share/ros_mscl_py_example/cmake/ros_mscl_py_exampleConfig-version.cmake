@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl_py_example/share/ros_mscl_py_example/cmake/ros_mscl_py_exampleConfig-version.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/kbhakta/my_git/epicIMU/devel
+install: false
+install_space: /home/kbhakta/my_git/epicIMU/install
+profile: default
+source_space: /home/kbhakta/my_git/epicIMU/src
+workspace: /home/kbhakta/my_git/epicIMU

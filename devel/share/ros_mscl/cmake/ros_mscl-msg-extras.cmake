@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl/share/ros_mscl/cmake/ros_mscl-msg-extras.cmake

@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/mscl_msgs/share/roseus/ros/mscl_msgs/msg/GPSCorrelationTimestamp.l

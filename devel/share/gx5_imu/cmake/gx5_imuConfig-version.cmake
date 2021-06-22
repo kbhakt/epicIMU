@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/gx5_imu/share/gx5_imu/cmake/gx5_imuConfig-version.cmake

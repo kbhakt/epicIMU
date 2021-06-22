@@ -1,0 +1,8 @@
+prefix=/home/kbhakta/my_git/epicIMU/install
+
+Name: ros_mscl
+Description: Description of ros_mscl
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp cmake_modules tf2 tf2_ros std_msgs std_srvs geometry_msgs sensor_msgs nav_msgs message_runtime mscl_msgs

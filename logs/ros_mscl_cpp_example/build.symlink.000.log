@@ -1,0 +1,4 @@
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/pkgconfig/ros_mscl_cpp_example.pc
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/ros_mscl_cpp_example/listener_cpp
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/ros_mscl_cpp_example/cmake/ros_mscl_cpp_exampleConfig.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/ros_mscl_cpp_example/cmake/ros_mscl_cpp_exampleConfig-version.cmake

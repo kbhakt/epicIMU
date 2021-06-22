@@ -12,5 +12,13 @@ https://www.microstrain.com/software/mscl
 Please contact the following people if you have questions using this code:
 
 Krishan Bhakta (kbhakta3@gatech.edu)
-
 Emily Upton (eupton8@gatech.edu)
+
+
+
+Instructions on how to use the code:
+
+ROS Version:
+
+
+Python Version:

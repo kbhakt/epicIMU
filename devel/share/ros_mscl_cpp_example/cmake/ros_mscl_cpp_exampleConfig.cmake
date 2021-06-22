@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl_cpp_example/share/ros_mscl_cpp_example/cmake/ros_mscl_cpp_exampleConfig.cmake

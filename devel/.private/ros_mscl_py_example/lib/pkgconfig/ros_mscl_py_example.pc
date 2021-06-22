@@ -1,0 +1,8 @@
+prefix=/home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl_py_example
+
+Name: ros_mscl_py_example
+Description: Description of ros_mscl_py_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

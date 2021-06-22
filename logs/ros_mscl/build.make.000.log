@@ -1,0 +1,550 @@
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetAccelBiasModel[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetConingScullingComp[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetGravityAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetRelativePositionReference[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetMagDipAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_DeviceSettings[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetTareOrientation[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetAccelAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetReferencePosition[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetGyroBias[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetZeroVelocityUpdateThreshold[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetDynamicsMode[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetConingScullingComp[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_ExternalHeadingUpdate[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetMagDipAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_DeviceSettings
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetDynamicsMode
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetGyroBias
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetRelativePositionReference
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetConingScullingComp
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetZeroVelocityUpdateThreshold
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetGravityAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetTareOrientation
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetReferencePosition
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetAccelBiasModel
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetConingScullingComp
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetAccelNoise[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetGyroNoise[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleOffset[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_InitFilterHeading[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetEstimationControlFlags[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetSoftIronMatrix[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetAccelAdaptiveVals
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetAccelBias[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetGyroBiasModel[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetZeroAngleUpdateThreshold[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetComplementaryFilter[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetHeadingSource[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _ros_mscl_generate_messages_check_deps_ExternalHeadingUpdate
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetMagAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetMagDipAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetMagNoise[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetGyroNoise
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleOffset
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetGyroBiasModel
+[  0%] Built target _ros_mscl_generate_messages_check_deps_InitFilterHeading
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetAccelBias
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetEstimationControlFlags
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetAccelNoise
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetComplementaryFilter
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_InitFilterEuler[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetZeroAngleUpdateThreshold
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetSoftIronMatrix
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetZeroVelocityUpdateThreshold[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetHardIronValues[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetRelativePositionReference[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetAccelNoise[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetHeadingSource
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleRotation[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetSoftIronMatrix[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetAccelAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetTareOrientation[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetSensor2VehicleRotation[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetZeroAngleUpdateThreshold[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetMagAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetMagDipAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetMagNoise
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetGravityAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetAccelBias[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetHardIronValues
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetRelativePositionReference
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetAccelBiasModel[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetAccelNoise
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetZeroVelocityUpdateThreshold
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleRotation
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetSoftIronMatrix
+[  0%] Built target _ros_mscl_generate_messages_check_deps_InitFilterEuler
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetMagAdaptiveVals[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetDynamicsMode[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetComplementaryFilter[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetEstimationControlFlags[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetAccelAdaptiveVals
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetGyroBias[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetTareOrientation
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetSensor2VehicleRotation
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetZeroAngleUpdateThreshold
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleTransformation[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetHardIronValues[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetHeadingSource[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetGyroBiasModel[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetSensor2VehicleOffset[0m
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetGyroNoise[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetGravityAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetAccelBias
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetAccelBiasModel
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetMagNoise[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetDynamicsMode
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetEstimationControlFlags
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetMagAdaptiveVals
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetComplementaryFilter
+[35m[1mScanning dependencies of target _ros_mscl_generate_messages_check_deps_SetReferencePosition[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetGyroBias
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetHeadingSource
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mscl_msgs_generate_messages_cpp[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetGyroBiasModel
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target _ros_mscl_generate_messages_check_deps_GetSensor2VehicleTransformation
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetSensor2VehicleOffset
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetHardIronValues
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetGyroNoise
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target mscl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetMagNoise
+[  0%] Built target _ros_mscl_generate_messages_check_deps_SetReferencePosition
+[35m[1mScanning dependencies of target ros_mscl_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ros_mscl_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ros_mscl_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target ros_mscl_generate_messages_py[0m
+[35m[1mScanning dependencies of target ros_mscl_generate_messages_nodejs[0m
+[  0%] [34m[1mGenerating EusLisp code from ros_mscl/GetAccelAdaptiveVals.srv[0m
+[  0%] [34m[1mGenerating Lisp code from ros_mscl/GetAccelBiasModel.srv[0m
+[  1%] [34m[1mGenerating EusLisp code from ros_mscl/DeviceSettings.srv[0m
+[  0%] [34m[1mGenerating Lisp code from ros_mscl/GetComplementaryFilter.srv[0m
+[  1%] [34m[1mGenerating Lisp code from ros_mscl/GetAccelBias.srv[0m
+[  2%] [34m[1mGenerating Lisp code from ros_mscl/ExternalHeadingUpdate.srv[0m
+[  2%] [34m[1mGenerating EusLisp code from ros_mscl/GetAccelBias.srv[0m
+[  3%] [34m[1mGenerating Lisp code from ros_mscl/GetAccelAdaptiveVals.srv[0m
+[  4%] [34m[1mGenerating Lisp code from ros_mscl/GetAccelNoise.srv[0m
+[  4%] [34m[1mGenerating C++ code from ros_mscl/DeviceSettings.srv[0m
+[  4%] [34m[1mGenerating Lisp code from ros_mscl/DeviceSettings.srv[0m
+[  4%] [34m[1mGenerating EusLisp code from ros_mscl/ExternalHeadingUpdate.srv[0m
+[  5%] [34m[1mGenerating Python code from SRV ros_mscl/DeviceSettings[0m
+[  6%] [34m[1mGenerating Javascript code from ros_mscl/DeviceSettings.srv[0m
+[  6%] [34m[1mGenerating C++ code from ros_mscl/ExternalHeadingUpdate.srv[0m
+[  6%] [34m[1mGenerating Javascript code from ros_mscl/ExternalHeadingUpdate.srv[0m
+[  6%] [34m[1mGenerating C++ code from ros_mscl/GetAccelBias.srv[0m
+[  7%] [34m[1mGenerating C++ code from ros_mscl/GetAccelAdaptiveVals.srv[0m
+[  7%] [34m[1mGenerating C++ code from ros_mscl/GetAccelBiasModel.srv[0m
+[  7%] [34m[1mGenerating Lisp code from ros_mscl/GetConingScullingComp.srv[0m
+[  7%] [34m[1mGenerating Javascript code from ros_mscl/GetAccelAdaptiveVals.srv[0m
+[  8%] [34m[1mGenerating C++ code from ros_mscl/GetAccelNoise.srv[0m
+[  8%] [34m[1mGenerating Python code from SRV ros_mscl/ExternalHeadingUpdate[0m
+[  8%] [34m[1mGenerating C++ code from ros_mscl/GetComplementaryFilter.srv[0m
+[  9%] [34m[1mGenerating Lisp code from ros_mscl/GetDynamicsMode.srv[0m
+[  9%] [34m[1mGenerating Lisp code from ros_mscl/GetEstimationControlFlags.srv[0m
+[  9%] [34m[1mGenerating EusLisp code from ros_mscl/GetAccelBiasModel.srv[0m
+[ 10%] [34m[1mGenerating Javascript code from ros_mscl/GetAccelBias.srv[0m
+[ 10%] [34m[1mGenerating Javascript code from ros_mscl/GetAccelBiasModel.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from ros_mscl/GetAccelNoise.srv[0m
+[ 11%] [34m[1mGenerating Javascript code from ros_mscl/GetComplementaryFilter.srv[0m
+[ 11%] [34m[1mGenerating Python code from SRV ros_mscl/GetAccelAdaptiveVals[0m
+[ 11%] [34m[1mGenerating Lisp code from ros_mscl/GetGravityAdaptiveVals.srv[0m
+[ 12%] [34m[1mGenerating Python code from SRV ros_mscl/GetAccelBias[0m
+[ 12%] [34m[1mGenerating Javascript code from ros_mscl/GetConingScullingComp.srv[0m
+[ 13%] [34m[1mGenerating EusLisp code from ros_mscl/GetAccelNoise.srv[0m
+[ 13%] [34m[1mGenerating EusLisp code from ros_mscl/GetComplementaryFilter.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from ros_mscl/GetDynamicsMode.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from ros_mscl/GetGyroBias.srv[0m
+[ 15%] [34m[1mGenerating Lisp code from ros_mscl/GetGyroBiasModel.srv[0m
+[ 15%] [34m[1mGenerating EusLisp code from ros_mscl/GetConingScullingComp.srv[0m
+[ 15%] [34m[1mGenerating Javascript code from ros_mscl/GetEstimationControlFlags.srv[0m
+[ 15%] [34m[1mGenerating Python code from SRV ros_mscl/GetAccelBiasModel[0m
+[ 15%] [34m[1mGenerating C++ code from ros_mscl/GetConingScullingComp.srv[0m
+[ 16%] [34m[1mGenerating C++ code from ros_mscl/GetDynamicsMode.srv[0m
+[ 16%] [34m[1mGenerating C++ code from ros_mscl/GetEstimationControlFlags.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from ros_mscl/GetHardIronValues.srv[0m
+[ 17%] [34m[1mGenerating Lisp code from ros_mscl/GetGyroNoise.srv[0m
+[ 17%] [34m[1mGenerating C++ code from ros_mscl/GetGravityAdaptiveVals.srv[0m
+[ 17%] [34m[1mGenerating Python code from SRV ros_mscl/GetAccelNoise[0m
+[ 18%] [34m[1mGenerating EusLisp code from ros_mscl/GetDynamicsMode.srv[0m
+[ 19%] [34m[1mGenerating C++ code from ros_mscl/GetGyroBias.srv[0m
+[ 19%] [34m[1mGenerating C++ code from ros_mscl/GetGyroBiasModel.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from ros_mscl/GetGravityAdaptiveVals.srv[0m
+[ 19%] [34m[1mGenerating C++ code from ros_mscl/GetGyroNoise.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from ros_mscl/GetHeadingSource.srv[0m
+[ 19%] [34m[1mGenerating EusLisp code from ros_mscl/GetEstimationControlFlags.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from ros_mscl/GetMagAdaptiveVals.srv[0m
+[ 20%] [34m[1mGenerating Python code from SRV ros_mscl/GetComplementaryFilter[0m
+[ 20%] [34m[1mGenerating Python code from SRV ros_mscl/GetConingScullingComp[0m
+[ 21%] [34m[1mGenerating Python code from SRV ros_mscl/GetDynamicsMode[0m
+[ 21%] [34m[1mGenerating Javascript code from ros_mscl/GetGyroBias.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from ros_mscl/GetGyroBiasModel.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from ros_mscl/GetMagDipAdaptiveVals.srv[0m
+[ 22%] [34m[1mGenerating EusLisp code from ros_mscl/GetGravityAdaptiveVals.srv[0m
+[ 22%] [34m[1mGenerating Javascript code from ros_mscl/GetGyroNoise.srv[0m
+[ 23%] [34m[1mGenerating Python code from SRV ros_mscl/GetEstimationControlFlags[0m
+[ 24%] [34m[1mGenerating Javascript code from ros_mscl/GetHardIronValues.srv[0m
+[ 24%] [34m[1mGenerating Python code from SRV ros_mscl/GetGravityAdaptiveVals[0m
+[ 25%] [34m[1mGenerating EusLisp code from ros_mscl/GetGyroBias.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from ros_mscl/GetMagNoise.srv[0m
+[ 26%] [34m[1mGenerating C++ code from ros_mscl/GetHardIronValues.srv[0m
+[ 26%] [34m[1mGenerating C++ code from ros_mscl/GetHeadingSource.srv[0m
+[ 26%] [34m[1mGenerating C++ code from ros_mscl/GetMagAdaptiveVals.srv[0m
+[ 27%] [34m[1mGenerating C++ code from ros_mscl/GetMagDipAdaptiveVals.srv[0m
+[ 27%] [34m[1mGenerating Lisp code from ros_mscl/GetReferencePosition.srv[0m
+[ 27%] [34m[1mGenerating Javascript code from ros_mscl/GetHeadingSource.srv[0m
+[ 27%] [34m[1mGenerating C++ code from ros_mscl/GetMagNoise.srv[0m
+[ 27%] [34m[1mGenerating C++ code from ros_mscl/GetReferencePosition.srv[0m
+[ 28%] [34m[1mGenerating Python code from SRV ros_mscl/GetGyroBias[0m
+[ 28%] [34m[1mGenerating Python code from SRV ros_mscl/GetGyroBiasModel[0m
+[ 29%] [34m[1mGenerating C++ code from ros_mscl/GetRelativePositionReference.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from ros_mscl/GetRelativePositionReference.srv[0m
+[ 30%] [34m[1mGenerating EusLisp code from ros_mscl/GetGyroBiasModel.srv[0m
+[ 30%] [34m[1mGenerating EusLisp code from ros_mscl/GetGyroNoise.srv[0m
+[ 30%] [34m[1mGenerating C++ code from ros_mscl/GetSensor2VehicleOffset.srv[0m
+[ 30%] [34m[1mGenerating Javascript code from ros_mscl/GetMagAdaptiveVals.srv[0m
+[ 30%] [34m[1mGenerating Python code from SRV ros_mscl/GetGyroNoise[0m
+[ 30%] [34m[1mGenerating Lisp code from ros_mscl/GetSensor2VehicleOffset.srv[0m
+[ 30%] [34m[1mGenerating Python code from SRV ros_mscl/GetHardIronValues[0m
+[ 31%] [34m[1mGenerating Python code from SRV ros_mscl/GetHeadingSource[0m
+[ 32%] [34m[1mGenerating Javascript code from ros_mscl/GetMagDipAdaptiveVals.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from ros_mscl/GetSensor2VehicleRotation.srv[0m
+[ 33%] [34m[1mGenerating Javascript code from ros_mscl/GetMagNoise.srv[0m
+[ 34%] [34m[1mGenerating EusLisp code from ros_mscl/GetHardIronValues.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from ros_mscl/GetSensor2VehicleTransformation.srv[0m
+[ 34%] [34m[1mGenerating C++ code from ros_mscl/GetSensor2VehicleRotation.srv[0m
+[ 34%] [34m[1mGenerating Javascript code from ros_mscl/GetReferencePosition.srv[0m
+[ 35%] [34m[1mGenerating C++ code from ros_mscl/GetSensor2VehicleTransformation.srv[0m
+[ 35%] [34m[1mGenerating Python code from SRV ros_mscl/GetMagAdaptiveVals[0m
+[ 35%] [34m[1mGenerating Python code from SRV ros_mscl/GetMagDipAdaptiveVals[0m
+[ 35%] [34m[1mGenerating C++ code from ros_mscl/GetSoftIronMatrix.srv[0m
+[ 35%] [34m[1mGenerating Lisp code from ros_mscl/GetSoftIronMatrix.srv[0m
+[ 36%] [34m[1mGenerating C++ code from ros_mscl/GetTareOrientation.srv[0m
+[ 37%] [34m[1mGenerating Python code from SRV ros_mscl/GetMagNoise[0m
+[ 37%] [34m[1mGenerating C++ code from ros_mscl/GetZeroAngleUpdateThreshold.srv[0m
+[ 37%] [34m[1mGenerating C++ code from ros_mscl/GetZeroVelocityUpdateThreshold.srv[0m
+[ 38%] [34m[1mGenerating C++ code from ros_mscl/InitFilterEuler.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from ros_mscl/GetRelativePositionReference.srv[0m
+[ 39%] [34m[1mGenerating EusLisp code from ros_mscl/GetHeadingSource.srv[0m
+[ 39%] [34m[1mGenerating C++ code from ros_mscl/InitFilterHeading.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from ros_mscl/GetTareOrientation.srv[0m
+[ 40%] [34m[1mGenerating Python code from SRV ros_mscl/GetReferencePosition[0m
+[ 40%] [34m[1mGenerating EusLisp code from ros_mscl/GetMagAdaptiveVals.srv[0m
+[ 40%] [34m[1mGenerating Python code from SRV ros_mscl/GetRelativePositionReference[0m
+[ 40%] [34m[1mGenerating Javascript code from ros_mscl/GetSensor2VehicleOffset.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from ros_mscl/GetZeroAngleUpdateThreshold.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from ros_mscl/GetSensor2VehicleRotation.srv[0m
+[ 41%] [34m[1mGenerating Python code from SRV ros_mscl/GetSensor2VehicleOffset[0m
+[ 42%] [34m[1mGenerating Javascript code from ros_mscl/GetSensor2VehicleTransformation.srv[0m
+[ 43%] [34m[1mGenerating EusLisp code from ros_mscl/GetMagDipAdaptiveVals.srv[0m
+[ 43%] [34m[1mGenerating C++ code from ros_mscl/SetAccelAdaptiveVals.srv[0m
+[ 43%] [34m[1mGenerating Javascript code from ros_mscl/GetSoftIronMatrix.srv[0m
+[ 43%] [34m[1mGenerating Lisp code from ros_mscl/GetZeroVelocityUpdateThreshold.srv[0m
+[ 44%] [34m[1mGenerating C++ code from ros_mscl/SetAccelBias.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from ros_mscl/GetTareOrientation.srv[0m
+[ 44%] [34m[1mGenerating C++ code from ros_mscl/SetAccelBiasModel.srv[0m
+[ 44%] [34m[1mGenerating Python code from SRV ros_mscl/GetSensor2VehicleRotation[0m
+[ 44%] [34m[1mGenerating C++ code from ros_mscl/SetAccelNoise.srv[0m
+[ 45%] [34m[1mGenerating C++ code from ros_mscl/SetComplementaryFilter.srv[0m
+[ 45%] [34m[1mGenerating C++ code from ros_mscl/SetConingScullingComp.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from ros_mscl/InitFilterEuler.srv[0m
+[ 46%] [34m[1mGenerating C++ code from ros_mscl/SetDynamicsMode.srv[0m
+[ 47%] [34m[1mGenerating Javascript code from ros_mscl/GetZeroAngleUpdateThreshold.srv[0m
+[ 48%] [34m[1mGenerating C++ code from ros_mscl/SetEstimationControlFlags.srv[0m
+[ 48%] [34m[1mGenerating EusLisp code from ros_mscl/GetMagNoise.srv[0m
+[ 48%] [34m[1mGenerating C++ code from ros_mscl/SetGravityAdaptiveVals.srv[0m
+[ 48%] [34m[1mGenerating EusLisp code from ros_mscl/GetReferencePosition.srv[0m
+[ 50%] [34m[1mGenerating Python code from SRV ros_mscl/GetSensor2VehicleTransformation[0m
+[ 50%] [34m[1mGenerating Lisp code from ros_mscl/InitFilterHeading.srv[0m
+[ 50%] [34m[1mGenerating Javascript code from ros_mscl/GetZeroVelocityUpdateThreshold.srv[0m
+[ 50%] [34m[1mGenerating Python code from SRV ros_mscl/GetSoftIronMatrix[0m
+[ 50%] [34m[1mGenerating C++ code from ros_mscl/SetGyroBias.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from ros_mscl/SetAccelAdaptiveVals.srv[0m
+[ 51%] [34m[1mGenerating C++ code from ros_mscl/SetGyroBiasModel.srv[0m
+[ 52%] [34m[1mGenerating EusLisp code from ros_mscl/GetRelativePositionReference.srv[0m
+[ 52%] [34m[1mGenerating Javascript code from ros_mscl/InitFilterEuler.srv[0m
+[ 52%] [34m[1mGenerating EusLisp code from ros_mscl/GetSensor2VehicleOffset.srv[0m
+[ 52%] [34m[1mGenerating C++ code from ros_mscl/SetGyroNoise.srv[0m
+[ 53%] [34m[1mGenerating C++ code from ros_mscl/SetHardIronValues.srv[0m
+[ 53%] [34m[1mGenerating Javascript code from ros_mscl/InitFilterHeading.srv[0m
+[ 54%] [34m[1mGenerating Lisp code from ros_mscl/SetAccelBias.srv[0m
+[ 54%] [34m[1mGenerating Python code from SRV ros_mscl/GetTareOrientation[0m
+[ 54%] [34m[1mGenerating EusLisp code from ros_mscl/GetSensor2VehicleRotation.srv[0m
+[ 55%] [34m[1mGenerating Python code from SRV ros_mscl/GetZeroAngleUpdateThreshold[0m
+[ 56%] [34m[1mGenerating C++ code from ros_mscl/SetHeadingSource.srv[0m
+[ 56%] [34m[1mGenerating C++ code from ros_mscl/SetMagAdaptiveVals.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from ros_mscl/SetAccelBiasModel.srv[0m
+[ 56%] [34m[1mGenerating Javascript code from ros_mscl/SetAccelAdaptiveVals.srv[0m
+[ 56%] [34m[1mGenerating Javascript code from ros_mscl/SetAccelBias.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV ros_mscl/GetZeroVelocityUpdateThreshold[0m
+[ 56%] [34m[1mGenerating Lisp code from ros_mscl/SetAccelNoise.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV ros_mscl/InitFilterEuler[0m
+[ 57%] [34m[1mGenerating EusLisp code from ros_mscl/GetSensor2VehicleTransformation.srv[0m
+[ 58%] [34m[1mGenerating Python code from SRV ros_mscl/InitFilterHeading[0m
+[ 58%] [34m[1mGenerating EusLisp code from ros_mscl/GetSoftIronMatrix.srv[0m
+[ 59%] [34m[1mGenerating Javascript code from ros_mscl/SetAccelBiasModel.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from ros_mscl/SetComplementaryFilter.srv[0m
+[ 60%] [34m[1mGenerating EusLisp code from ros_mscl/GetTareOrientation.srv[0m
+[ 60%] [34m[1mGenerating Javascript code from ros_mscl/SetAccelNoise.srv[0m
+[ 60%] [34m[1mGenerating C++ code from ros_mscl/SetMagDipAdaptiveVals.srv[0m
+[ 60%] [34m[1mGenerating Python code from SRV ros_mscl/SetAccelAdaptiveVals[0m
+[ 60%] [34m[1mGenerating Python code from SRV ros_mscl/SetAccelBias[0m
+[ 60%] [34m[1mGenerating Javascript code from ros_mscl/SetComplementaryFilter.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from ros_mscl/SetConingScullingComp.srv[0m
+[ 61%] [34m[1mGenerating Python code from SRV ros_mscl/SetAccelBiasModel[0m
+[ 61%] [34m[1mGenerating Python code from SRV ros_mscl/SetAccelNoise[0m
+[ 61%] [34m[1mGenerating Python code from SRV ros_mscl/SetComplementaryFilter[0m
+[ 63%] [34m[1mGenerating EusLisp code from ros_mscl/GetZeroAngleUpdateThreshold.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV ros_mscl/SetConingScullingComp[0m
+[ 63%] [34m[1mGenerating Python code from SRV ros_mscl/SetDynamicsMode[0m
+[ 63%] [34m[1mGenerating EusLisp code from ros_mscl/GetZeroVelocityUpdateThreshold.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from ros_mscl/InitFilterEuler.srv[0m
+[ 63%] [34m[1mGenerating Lisp code from ros_mscl/SetDynamicsMode.srv[0m
+[ 63%] [34m[1mGenerating Python code from SRV ros_mscl/SetEstimationControlFlags[0m
+[ 65%] [34m[1mGenerating Lisp code from ros_mscl/SetEstimationControlFlags.srv[0m
+[ 65%] [34m[1mGenerating Javascript code from ros_mscl/SetConingScullingComp.srv[0m
+[ 65%] [34m[1mGenerating Lisp code from ros_mscl/SetGravityAdaptiveVals.srv[0m
+[ 66%] [34m[1mGenerating Python code from SRV ros_mscl/SetGravityAdaptiveVals[0m
+[ 66%] [34m[1mGenerating Python code from SRV ros_mscl/SetGyroBias[0m
+[ 66%] [34m[1mGenerating Python code from SRV ros_mscl/SetGyroBiasModel[0m
+[ 66%] [34m[1mGenerating Javascript code from ros_mscl/SetDynamicsMode.srv[0m
+[ 66%] [34m[1mGenerating Javascript code from ros_mscl/SetEstimationControlFlags.srv[0m
+[ 67%] [34m[1mGenerating C++ code from ros_mscl/SetMagNoise.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from ros_mscl/InitFilterHeading.srv[0m
+[ 68%] [34m[1mGenerating Lisp code from ros_mscl/SetGyroBias.srv[0m
+[ 69%] [34m[1mGenerating Lisp code from ros_mscl/SetGyroBiasModel.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV ros_mscl/SetGyroNoise[0m
+[ 70%] [34m[1mGenerating C++ code from ros_mscl/SetReferencePosition.srv[0m
+[ 70%] [34m[1mGenerating C++ code from ros_mscl/SetRelativePositionReference.srv[0m
+[ 71%] [34m[1mGenerating C++ code from ros_mscl/SetSensor2VehicleOffset.srv[0m
+[ 71%] [34m[1mGenerating C++ code from ros_mscl/SetSensor2VehicleRotation.srv[0m
+[ 71%] [34m[1mGenerating C++ code from ros_mscl/SetSoftIronMatrix.srv[0m
+[ 72%] [34m[1mGenerating Javascript code from ros_mscl/SetGravityAdaptiveVals.srv[0m
+[ 72%] [34m[1mGenerating Python code from SRV ros_mscl/SetHeadingSource[0m
+[ 72%] [34m[1mGenerating Python code from SRV ros_mscl/SetHardIronValues[0m
+[ 73%] [34m[1mGenerating C++ code from ros_mscl/SetTareOrientation.srv[0m
+[ 73%] [34m[1mGenerating Javascript code from ros_mscl/SetGyroBias.srv[0m
+[ 73%] [34m[1mGenerating Lisp code from ros_mscl/SetGyroNoise.srv[0m
+[ 73%] [34m[1mGenerating Lisp code from ros_mscl/SetHardIronValues.srv[0m
+[ 73%] [34m[1mGenerating EusLisp code from ros_mscl/SetAccelAdaptiveVals.srv[0m
+[ 74%] [34m[1mGenerating Javascript code from ros_mscl/SetGyroBiasModel.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV ros_mscl/SetMagAdaptiveVals[0m
+[ 75%] [34m[1mGenerating Javascript code from ros_mscl/SetGyroNoise.srv[0m
+[ 75%] [34m[1mGenerating Python code from SRV ros_mscl/SetMagDipAdaptiveVals[0m
+[ 76%] [34m[1mGenerating Lisp code from ros_mscl/SetMagAdaptiveVals.srv[0m
+[ 76%] [34m[1mGenerating Lisp code from ros_mscl/SetHeadingSource.srv[0m
+[ 76%] [34m[1mGenerating Javascript code from ros_mscl/SetHardIronValues.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from ros_mscl/SetAccelBias.srv[0m
+[ 77%] [34m[1mGenerating EusLisp code from ros_mscl/SetAccelBiasModel.srv[0m
+[ 77%] [34m[1mGenerating EusLisp code from ros_mscl/SetAccelNoise.srv[0m
+[ 77%] [34m[1mGenerating Lisp code from ros_mscl/SetMagDipAdaptiveVals.srv[0m
+[ 77%] [34m[1mGenerating EusLisp code from ros_mscl/SetComplementaryFilter.srv[0m
+[ 77%] [34m[1mGenerating C++ code from ros_mscl/SetZeroAngleUpdateThreshold.srv[0m
+[ 77%] [34m[1mGenerating Python code from SRV ros_mscl/SetMagNoise[0m
+[ 77%] [34m[1mGenerating Python code from SRV ros_mscl/SetRelativePositionReference[0m
+[ 78%] [34m[1mGenerating Python code from SRV ros_mscl/SetReferencePosition[0m
+[ 78%] [34m[1mGenerating C++ code from ros_mscl/SetZeroVelocityUpdateThreshold.srv[0m
+[ 79%] [34m[1mGenerating Javascript code from ros_mscl/SetHeadingSource.srv[0m
+[ 79%] [34m[1mGenerating Python code from SRV ros_mscl/SetSensor2VehicleOffset[0m
+[ 79%] [34m[1mGenerating Javascript code from ros_mscl/SetMagAdaptiveVals.srv[0m
+[ 79%] [34m[1mGenerating Javascript code from ros_mscl/SetMagDipAdaptiveVals.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from ros_mscl/SetConingScullingComp.srv[0m
+[ 81%] [34m[1mGenerating Lisp code from ros_mscl/SetReferencePosition.srv[0m
+[ 81%] [34m[1mGenerating Lisp code from ros_mscl/SetMagNoise.srv[0m
+[ 81%] [34m[1mGenerating Lisp code from ros_mscl/SetRelativePositionReference.srv[0m
+[ 82%] [34m[1mGenerating Lisp code from ros_mscl/SetSensor2VehicleOffset.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV ros_mscl/SetSensor2VehicleRotation[0m
+[ 84%] [34m[1mGenerating Javascript code from ros_mscl/SetMagNoise.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV ros_mscl/SetSoftIronMatrix[0m
+[ 84%] [34m[1mGenerating Javascript code from ros_mscl/SetReferencePosition.srv[0m
+[ 84%] [34m[1mGenerating Javascript code from ros_mscl/SetRelativePositionReference.srv[0m
+[ 84%] [34m[1mGenerating Python code from SRV ros_mscl/SetTareOrientation[0m
+[ 85%] [34m[1mGenerating Python code from SRV ros_mscl/SetZeroAngleUpdateThreshold[0m
+[ 85%] [34m[1mGenerating Lisp code from ros_mscl/SetSensor2VehicleRotation.srv[0m
+[ 85%] [34m[1mGenerating Lisp code from ros_mscl/SetSoftIronMatrix.srv[0m
+[ 86%] [34m[1mGenerating Lisp code from ros_mscl/SetTareOrientation.srv[0m
+[ 86%] [34m[1mGenerating Python code from SRV ros_mscl/SetZeroVelocityUpdateThreshold[0m
+[ 86%] [34m[1mGenerating EusLisp code from ros_mscl/SetDynamicsMode.srv[0m
+[ 87%] [34m[1mGenerating Javascript code from ros_mscl/SetSensor2VehicleOffset.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from ros_mscl/SetEstimationControlFlags.srv[0m
+[ 87%] [34m[1mGenerating Lisp code from ros_mscl/SetZeroVelocityUpdateThreshold.srv[0m
+[ 87%] [34m[1mGenerating Lisp code from ros_mscl/SetZeroAngleUpdateThreshold.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from ros_mscl/SetGravityAdaptiveVals.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from ros_mscl/SetGyroBias.srv[0m
+[ 88%] [34m[1mGenerating Javascript code from ros_mscl/SetSensor2VehicleRotation.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from ros_mscl/SetGyroBiasModel.srv[0m
+[ 88%] [34m[1mGenerating Javascript code from ros_mscl/SetSoftIronMatrix.srv[0m
+[ 89%] [34m[1mGenerating Javascript code from ros_mscl/SetZeroAngleUpdateThreshold.srv[0m
+[ 89%] [34m[1mGenerating Javascript code from ros_mscl/SetTareOrientation.srv[0m
+[ 89%] [34m[1mGenerating Python srv __init__.py for ros_mscl[0m
+[ 89%] [34m[1mGenerating Javascript code from ros_mscl/SetZeroVelocityUpdateThreshold.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from ros_mscl/SetGyroNoise.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from ros_mscl/SetHardIronValues.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from ros_mscl/SetHeadingSource.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from ros_mscl/SetMagAdaptiveVals.srv[0m
+[ 91%] [34m[1mGenerating EusLisp code from ros_mscl/SetMagDipAdaptiveVals.srv[0m
+[ 92%] [34m[1mGenerating EusLisp code from ros_mscl/SetMagNoise.srv[0m
+[ 92%] [34m[1mGenerating EusLisp code from ros_mscl/SetReferencePosition.srv[0m
+[ 92%] [34m[1mGenerating EusLisp code from ros_mscl/SetRelativePositionReference.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from ros_mscl/SetSensor2VehicleOffset.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from ros_mscl/SetSensor2VehicleRotation.srv[0m
+[ 93%] [34m[1mGenerating EusLisp code from ros_mscl/SetSoftIronMatrix.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from ros_mscl/SetTareOrientation.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from ros_mscl/SetZeroAngleUpdateThreshold.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from ros_mscl/SetZeroVelocityUpdateThreshold.srv[0m
+[ 95%] [34m[1mGenerating EusLisp manifest code for ros_mscl[0m
+[ 95%] Built target ros_mscl_generate_messages_cpp
+[35m[1mScanning dependencies of target ros_mscl_gencpp[0m
+[ 95%] Built target ros_mscl_gencpp
+[ 95%] Built target ros_mscl_generate_messages_lisp
+[ 95%] Built target ros_mscl_generate_messages_py
+[ 95%] Built target ros_mscl_generate_messages_nodejs
+[ 95%] Built target ros_mscl_generate_messages_eus
+[35m[1mScanning dependencies of target ros_mscl[0m
+[35m[1mScanning dependencies of target ros_mscl_generate_messages[0m
+[35m[1mScanning dependencies of target microstrain_diagnostic_updater[0m
+[ 95%] Built target ros_mscl_generate_messages
+[ 96%] [32mBuilding CXX object CMakeFiles/microstrain_diagnostic_updater.dir/src/microstrain_diagnostic_updater.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/ros_mscl.dir/src/microstrain_3dm.cpp.o[0m
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kvoid Microstrain::Microstrain::external_gps_time_callback(const TimeReference&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%i[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Klong int[m[K’ [[01;35m[K-Wformat=[m[K]
+ 2220 |       ROS_INFO([01;35m[K"GPS Update: w%i, s%i"[m[K,
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+ 2221 |                weeks, [32m[Ksecs[m[K);
+      |                       [32m[K~~~~[m[K
+      |                       [32m[K|[m[K
+      |                       [32m[Klong int[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 2220 |       [01;36m[KROS_INFO[m[K("GPS Update: w%i, s%i",
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:36:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 2220 |       ROS_INFO("GPS Update: w%i, s[01;36m[K%i[m[K",
+      |                                   [01;36m[K~^[m[K
+      |                                    [01;36m[K|[m[K
+      |                                    [01;36m[Kint[m[K
+      |                                   [32m[K%li[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::get_basic_status(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kconst char*[m[K’ [[01;35m[K-Wformat=[m[K]
+ 3209 |       ROS_INFO([01;35m[K"Model Number: \t\t\t\t\t%04u\n"[m[K, [32m[Km_inertial_device->modelNumber().c_str()[m[K);
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                        [32m[K|[m[K
+      |                                                                                        [32m[Kconst char*[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 3209 |       [01;36m[KROS_INFO[m[K("Model Number: \t\t\t\t\t%04u\n", m_inertial_device->modelNumber().c_str());
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 3209 |       ROS_INFO("Model Number: \t\t\t\t\t[01;36m[K%04u[m[K\n", m_inertial_device->modelNumber().c_str());
+      |                                         [01;36m[K~~~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kunsigned int[m[K
+      |                                         [32m[K%04s[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::get_diagnostic_report(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kconst char*[m[K’ [[01;35m[K-Wformat=[m[K]
+ 3273 |       ROS_INFO([01;35m[K"Model Number: \t\t\t\t\t%04u\n"[m[K, [32m[Km_inertial_device->modelNumber().c_str()[m[K);
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                        [32m[K|[m[K
+      |                                                                                        [32m[Kconst char*[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 3273 |       [01;36m[KROS_INFO[m[K("Model Number: \t\t\t\t\t%04u\n", m_inertial_device->modelNumber().c_str());
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 3273 |       ROS_INFO("Model Number: \t\t\t\t\t[01;36m[K%04u[m[K\n", m_inertial_device->modelNumber().c_str());
+      |                                         [01;36m[K~~~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kunsigned int[m[K
+      |                                         [32m[K%04s[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::set_mag_dip_adaptive_vals(ros_mscl::SetMagDipAdaptiveVals::Request&, ros_mscl::SetMagDipAdaptiveVals::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:4076:16:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+ 4076 |       ROS_INFO([01;35m[K"Returned values: Enable: %i, Parameters: %f %f %f %f\n"[m[K,
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:4076:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 4076 |       [01;36m[KROS_INFO[m[K("Returned values: Enable: %i, Parameters: %f %f %f %f\n",
+      |       [01;36m[K^~~~~~~~[m[K
+[ 96%] [32m[1mLinking CXX shared library /home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl/lib/libmicrostrain_diagnostic_updater.so[0m
+[ 96%] Built target microstrain_diagnostic_updater
+[ 97%] [32m[1mLinking CXX shared library /home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl/lib/libros_mscl.so[0m
+[ 97%] Built target ros_mscl
+[35m[1mScanning dependencies of target ros_mscl_node[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/ros_mscl_node.dir/src/microstrain_diagnostic_updater.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/ros_mscl_node.dir/src/microstrain_3dm_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl/lib/ros_mscl/ros_mscl_node[0m
+[100%] Built target ros_mscl_node

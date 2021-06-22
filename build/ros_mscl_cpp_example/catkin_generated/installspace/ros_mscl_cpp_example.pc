@@ -1,0 +1,8 @@
+prefix=/home/kbhakta/my_git/epicIMU/install
+
+Name: ros_mscl_cpp_example
+Description: Description of ros_mscl_cpp_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

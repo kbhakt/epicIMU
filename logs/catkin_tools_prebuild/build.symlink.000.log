@@ -1,0 +1,12 @@
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./setup.sh
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./_setup_util.py
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./local_setup.sh
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./env.sh
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./cmake.lock
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./setup.bash
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./local_setup.bash
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./setup.zsh
+Symlinking /home/kbhakta/my_git/epicIMU/devel/./local_setup.zsh
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

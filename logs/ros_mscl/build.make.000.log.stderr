@@ -1,0 +1,114 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kvoid Microstrain::Microstrain::external_gps_time_callback(const TimeReference&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%i[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Klong int[m[K’ [[01;35m[K-Wformat=[m[K]
+ 2220 |       ROS_INFO([01;35m[K"GPS Update: w%i, s%i"[m[K,
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+ 2221 |                weeks, [32m[Ksecs[m[K);
+      |                       [32m[K~~~~[m[K
+      |                       [32m[K|[m[K
+      |                       [32m[Klong int[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 2220 |       [01;36m[KROS_INFO[m[K("GPS Update: w%i, s%i",
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:2220:36:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 2220 |       ROS_INFO("GPS Update: w%i, s[01;36m[K%i[m[K",
+      |                                   [01;36m[K~^[m[K
+      |                                    [01;36m[K|[m[K
+      |                                    [01;36m[Kint[m[K
+      |                                   [32m[K%li[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::get_basic_status(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kconst char*[m[K’ [[01;35m[K-Wformat=[m[K]
+ 3209 |       ROS_INFO([01;35m[K"Model Number: \t\t\t\t\t%04u\n"[m[K, [32m[Km_inertial_device->modelNumber().c_str()[m[K);
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                        [32m[K|[m[K
+      |                                                                                        [32m[Kconst char*[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 3209 |       [01;36m[KROS_INFO[m[K("Model Number: \t\t\t\t\t%04u\n", m_inertial_device->modelNumber().c_str());
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3209:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 3209 |       ROS_INFO("Model Number: \t\t\t\t\t[01;36m[K%04u[m[K\n", m_inertial_device->modelNumber().c_str());
+      |                                         [01;36m[K~~~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kunsigned int[m[K
+      |                                         [32m[K%04s[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::get_diagnostic_report(std_srvs::Trigger::Request&, std_srvs::Trigger::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:16:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%u[m[K’ expects argument of type ‘[01m[Kunsigned int[m[K’, but argument 8 has type ‘[01m[Kconst char*[m[K’ [[01;35m[K-Wformat=[m[K]
+ 3273 |       ROS_INFO([01;35m[K"Model Number: \t\t\t\t\t%04u\n"[m[K, [32m[Km_inertial_device->modelNumber().c_str()[m[K);
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K  [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                        [32m[K|[m[K
+      |                                                                                        [32m[Kconst char*[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 3273 |       [01;36m[KROS_INFO[m[K("Model Number: \t\t\t\t\t%04u\n", m_inertial_device->modelNumber().c_str());
+      |       [01;36m[K^~~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:3273:44:[m[K [01;36m[Knote: [m[Kformat string is defined here
+ 3273 |       ROS_INFO("Model Number: \t\t\t\t\t[01;36m[K%04u[m[K\n", m_inertial_device->modelNumber().c_str());
+      |                                         [01;36m[K~~~^[m[K
+      |                                            [01;36m[K|[m[K
+      |                                            [01;36m[Kunsigned int[m[K
+      |                                         [32m[K%04s[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/include/ros_mscl/microstrain_diagnostic_updater.h:1[m[K,
+                 from [01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:27[m[K:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:[m[K In member function ‘[01m[Kbool Microstrain::Microstrain::set_mag_dip_adaptive_vals(ros_mscl::SetMagDipAdaptiveVals::Request&, ros_mscl::SetMagDipAdaptiveVals::Response&)[m[K’:
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:4076:16:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+ 4076 |       ROS_INFO([01;35m[K"Returned values: Enable: %i, Parameters: %f %f %f %f\n"[m[K,
+      |                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/kbhakta/my_git/epicIMU/src/ROS-MSCL/ros_mscl/src/microstrain_3dm.cpp:4076:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+ 4076 |       [01;36m[KROS_INFO[m[K("Returned values: Enable: %i, Parameters: %f %f %f %f\n",
+      |       [01;36m[K^~~~~~~~[m[K

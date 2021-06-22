@@ -1,0 +1,1 @@
+/home/kbhakta/my_git/epicIMU/devel/.private/gx5_imu/share/roseus/ros/gx5_imu/manifest.l

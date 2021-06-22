@@ -1,0 +1,8 @@
+prefix=/home/kbhakta/my_git/epicIMU/devel/.private/custom_msgs
+
+Name: custom_msgs
+Description: Description of custom_msgs
+Version: 0.0.0
+Cflags: -I/home/kbhakta/my_git/epicIMU/devel/.private/custom_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

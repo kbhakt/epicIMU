@@ -1,0 +1,9 @@
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/gx5_imu/multi_imu
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/gx5_imu/single_imu
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/pkgconfig/gx5_imu.pc
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/python3/dist-packages/gx5_imu/__init__.py
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/gx5_imu/cmake/gx5_imu-msg-paths.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/gx5_imu/cmake/gx5_imuConfig-version.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/gx5_imu/cmake/gx5_imu-msg-extras.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/gx5_imu/cmake/gx5_imuConfig.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/roseus/ros/gx5_imu/manifest.l

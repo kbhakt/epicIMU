@@ -1,0 +1,8 @@
+prefix=/home/kbhakta/my_git/epicIMU/devel/.private/mscl_msgs
+
+Name: mscl_msgs
+Description: Description of mscl_msgs
+Version: 1.0.0
+Cflags: -I/home/kbhakta/my_git/epicIMU/devel/.private/mscl_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

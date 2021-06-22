@@ -1,0 +1,4 @@
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/pkgconfig/ros_mscl_py_example.pc
+Symlinking /home/kbhakta/my_git/epicIMU/devel/lib/python3/dist-packages/listener/__init__.py
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/ros_mscl_py_example/cmake/ros_mscl_py_exampleConfig.cmake
+Symlinking /home/kbhakta/my_git/epicIMU/devel/share/ros_mscl_py_example/cmake/ros_mscl_py_exampleConfig-version.cmake

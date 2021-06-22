@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target listener_cpp[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/listener_cpp.dir/src/listener.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/kbhakta/my_git/epicIMU/devel/.private/ros_mscl_cpp_example/lib/ros_mscl_cpp_example/listener_cpp[0m
+[100%] Built target listener_cpp
